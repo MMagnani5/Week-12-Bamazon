@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMagnani5/Week-12-Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMagnani5/Week-12-Bamazon/issues"
+  },
+  "homepage": "https://github.com/MMagnani5/Week-12-Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
